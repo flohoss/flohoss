@@ -13,8 +13,6 @@
 ### Frameworks
 ![](https://img.shields.io/badge/Framework-Angular-informational?style=for-the-badge&logo=angular&color=DD0031)
 ![](https://img.shields.io/badge/Framework-Django-informational?style=for-the-badge&logo=django&color=092E20)
-![](https://img.shields.io/badge/Framework-GinGonic-informational?style=for-the-badge&color=0090d1)
-![](https://img.shields.io/badge/Framework-Gorilla-informational?style=for-the-badge&color=ffbb00)
 ### I like
 ![](https://img.shields.io/badge/Basics-Shell-informational?style=for-the-badge&logo=gnubash&color=4EAA25)
 ![](https://img.shields.io/badge/Technology-Docker-informational?style=for-the-badge&logo=docker&color=2496ED)
