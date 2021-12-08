@@ -11,21 +11,21 @@
 ![](https://img.shields.io/badge/Web-TypeScript-informational?style=for-the-badge&logo=typescript&color=3178C6)
 ![](https://img.shields.io/badge/Web-Boostrap-informational?style=for-the-badge&logo=bootstrap&color=7952B3)
 ### Frameworks
-![](https://img.shields.io/badge/Framework-React-informational?style=for-the-badge&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Framework-Angular-informational?style=for-the-badge&logo=angular&color=DD0031)
 ![](https://img.shields.io/badge/Framework-Django-informational?style=for-the-badge&logo=django&color=092E20)
 ![](https://img.shields.io/badge/Framework-GinGonic-informational?style=for-the-badge&color=0090d1)
 ![](https://img.shields.io/badge/Framework-Gorilla-informational?style=for-the-badge&color=ffbb00)
-### Basic stuff
+### I like
 ![](https://img.shields.io/badge/Basics-Shell-informational?style=for-the-badge&logo=gnubash&color=4EAA25)
-![](https://img.shields.io/badge/Basics-SSH-informational?style=for-the-badge&logo=gnubash&color=4EAA25)
-### Favourite editors
+![](https://img.shields.io/badge/Technology-Docker-informational?style=for-the-badge&logo=docker&color=2496ED)
+![](https://img.shields.io/badge/Hoster-Hetzner-informational?style=for-the-badge&logo=hetzner&color=D50C2D)
+### My editors
 ![](https://img.shields.io/badge/Editor-StudioCode-informational?style=for-the-badge&logo=visualstudiocode&color=007ACC)
 ![](https://img.shields.io/badge/Editor-WebStorm-informational?style=for-the-badge&logo=webstorm&color=000000)
 ![](https://img.shields.io/badge/Editor-GoLand-informational?style=for-the-badge&logo=goland&color=000000)
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=for-the-badge&logo=pycharm&color=000000)
 ![](https://img.shields.io/badge/Editor-IntelliJ-informational?style=for-the-badge&logo=intellijidea&color=000000)
-### Favourite operating systems
+### My operating systems
 ![](https://img.shields.io/badge/OS-Debian-informational?style=for-the-badge&logo=debian&color=A81D33)
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=for-the-badge&logo=apple&color=000000)
 
