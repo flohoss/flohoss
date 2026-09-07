@@ -42,10 +42,24 @@ solutions.
 
 ### Find me
 
-- <img src="https://raw.githubusercontent.com/flohoss/flohoss/main/icons/globe.svg" width="14" valign="middle" alt="Website" /> [florianhoss.de](https://florianhoss.de/)
-- <img src="https://raw.githubusercontent.com/flohoss/flohoss/main/icons/linkedin.svg" width="14" valign="middle" alt="LinkedIn" /> [LinkedIn](https://www.linkedin.com/in/florianhoss/)
-- <img src="https://raw.githubusercontent.com/flohoss/flohoss/main/icons/matrix.svg" width="14" valign="middle" alt="Matrix" /> [Matrix](https://matrix.to/#/@flohoss:unjx.de)
-- <img src="https://raw.githubusercontent.com/flohoss/flohoss/main/icons/x-twitter.svg" width="14" valign="middle" alt="X / Twitter" /> [X / Twitter](https://x.com/flohoss/)
+<table>
+  <tr>
+    <td><img src="./icons/globe.svg" width="14" alt="Website" /></td>
+    <td><a href="https://florianhoss.de/">florianhoss.de</a></td>
+  </tr>
+  <tr>
+    <td><img src="./icons/linkedin.svg" width="14" alt="LinkedIn" /></td>
+    <td><a href="https://www.linkedin.com/in/florianhoss/">LinkedIn</a></td>
+  </tr>
+  <tr>
+    <td><img src="./icons/matrix.svg" width="14" alt="Matrix" /></td>
+    <td><a href="https://matrix.to/#/@flohoss:unjx.de">Matrix</a></td>
+  </tr>
+  <tr>
+    <td><img src="./icons/x-twitter.svg" width="14" alt="X / Twitter" /></td>
+    <td><a href="https://x.com/flohoss/">X / Twitter</a></td>
+  </tr>
+</table>
 
 ---
 
