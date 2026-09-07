@@ -10,28 +10,48 @@ solutions.
 
 ### Tech stack
 
-**Languages** <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.2/svgs/solid/code.svg" width="14" valign="middle" alt="code icon" />
-Go, PHP, JavaScript, TypeScript, Python, Bash, C++
+**Languages**  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
-**Frameworks** <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.2/svgs/solid/layer-group.svg" width="14" valign="middle" alt="layers icon" />
-Symfony, Vue.js, Tailwind CSS, Cypress
+**Frameworks**  
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
 
-**Databases** <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.2/svgs/solid/database.svg" width="14" valign="middle" alt="database icon" />
-PostgreSQL, SQLite
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
-**DevOps** <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.2/svgs/solid/server.svg" width="14" valign="middle" alt="server icon" />
-Linux/Debian, Docker/Compose, Git, GitLab CI/CD, GitHub Actions, Nginx, Traefik, Proxmox, OIDC
+**DevOps**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-24C45B?style=flat&logo=traefik&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
+![OIDC](https://img.shields.io/badge/OIDC-009688?style=flat&logo=openid&logoColor=white)
 
 ### Find me
 
-- <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.2/svgs/solid/globe.svg" width="14" valign="middle" alt="website" /> [florianhoss.de](https://florianhoss.de/)
-- <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.2/svgs/brands/linkedin.svg" width="14" valign="middle" alt="LinkedIn" /> [LinkedIn](https://www.linkedin.com/in/florianhoss/)
-- <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.2/svgs/solid/comments.svg" width="14" valign="middle" alt="Matrix" /> [Matrix](https://matrix.to/#/@flohoss:unjx.de)
-- <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.2/svgs/brands/x-twitter.svg" width="14" valign="middle" alt="X/Twitter" /> [X / Twitter](https://x.com/flohoss/)
+- <img src="./icons/globe.svg" width="14" valign="middle" alt="Website" /> [florianhoss.de](https://florianhoss.de/)
+- <img src="./icons/linkedin.svg" width="14" valign="middle" alt="LinkedIn" /> [LinkedIn](https://www.linkedin.com/in/florianhoss/)
+- <img src="./icons/matrix.svg" width="14" valign="middle" alt="Matrix" /> [Matrix](https://matrix.to/#/@flohoss:unjx.de)
+- <img src="./icons/x-twitter.svg" width="14" valign="middle" alt="X / Twitter" /> [X / Twitter](https://x.com/flohoss/)
 
 ---
 
-<p align="center">
-  <img src="./profile/stats.svg" alt="GitHub stats" height="195" />
-  <img src="./profile/top-langs.svg" alt="Top Languages" height="195" />
-</p>
+<table align="center">
+  <tr>
+    <td><img src="./profile/stats.svg" alt="GitHub stats"></td>
+    <td><img src="./profile/top-langs.svg" alt="Top Languages"></td>
+  </tr>
+</table>
