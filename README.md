@@ -42,10 +42,10 @@ solutions.
 
 ### Find me
 
-- <img src="./icons/globe.svg" width="14" valign="middle" alt="Website" /> [florianhoss.de](https://florianhoss.de/)
-- <img src="./icons/linkedin.svg" width="14" valign="middle" alt="LinkedIn" /> [LinkedIn](https://www.linkedin.com/in/florianhoss/)
-- <img src="./icons/matrix.svg" width="14" valign="middle" alt="Matrix" /> [Matrix](https://matrix.to/#/@flohoss:unjx.de)
-- <img src="./icons/x-twitter.svg" width="14" valign="middle" alt="X / Twitter" /> [X / Twitter](https://x.com/flohoss/)
+- <img src="https://raw.githubusercontent.com/flohoss/flohoss/main/icons/globe.svg" width="14" valign="middle" alt="Website" /> [florianhoss.de](https://florianhoss.de/)
+- <img src="https://raw.githubusercontent.com/flohoss/flohoss/main/icons/linkedin.svg" width="14" valign="middle" alt="LinkedIn" /> [LinkedIn](https://www.linkedin.com/in/florianhoss/)
+- <img src="https://raw.githubusercontent.com/flohoss/flohoss/main/icons/matrix.svg" width="14" valign="middle" alt="Matrix" /> [Matrix](https://matrix.to/#/@flohoss:unjx.de)
+- <img src="https://raw.githubusercontent.com/flohoss/flohoss/main/icons/x-twitter.svg" width="14" valign="middle" alt="X / Twitter" /> [X / Twitter](https://x.com/flohoss/)
 
 ---
 
