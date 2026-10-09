@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Florian Hoss&#39; GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 590, Total Commits  (last year) : 1725, Total PRs: 363, Total Issues: 31, Contributed to (last year): 5</desc>
+        <desc id="descId">Total Stars Earned: 592, Total Commits  (last year) : 1741, Total PRs: 363, Total Issues: 31, Contributed to (last year): 5</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 36.61802626358401;
+        stroke-dashoffset: 36.582417776736456;
       }
     }
   
@@ -169,7 +169,7 @@
         x="224.01"
         y="12.5"
         data-testid="stars"
-      >590</text>
+      >592</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
